@@ -6,12 +6,13 @@ import "./App.css";
 // import IdleTimer from "./components/6. IdleTimer";
 // import ColorPicker from "./components/7. ColorPicker";
 // import CreditCards from "./components/8. CreditCards";
-import VideoPlayer from "./components/9. VideoPlayer";
+// import VideoPlayer from "./components/9. VideoPlayer";
+import Spinners from "./components/10. Spinners";
 
 function App() {
   return (
     <div className='App'>
-      <VideoPlayer />
+      <Spinners />
     </div>
   );
 }
