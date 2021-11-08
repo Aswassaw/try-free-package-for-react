@@ -5,12 +5,13 @@ import "./App.css";
 // import Tooltip from "./components/4. Tooltip";
 // import IdleTimer from "./components/6. IdleTimer";
 // import ColorPicker from "./components/7. ColorPicker";
-import CreditCards from "./components/8. CreditCards";
+// import CreditCards from "./components/8. CreditCards";
+import VideoPlayer from "./components/9. VideoPlayer";
 
 function App() {
   return (
     <div className='App'>
-      <CreditCards />
+      <VideoPlayer />
     </div>
   );
 }
