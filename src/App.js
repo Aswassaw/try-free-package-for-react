@@ -3,12 +3,12 @@ import "./App.css";
 // import Toast from "./components/2. Toast";
 // import Modal from "./components/3. Modal";
 // import Tooltip from "./components/4. Tooltip";
-import Countup from "./components/5. Countup";
+import IdleTimer from "./components/6. IdleTimer";
 
 function App() {
   return (
     <div className='App'>
-      <Countup />
+      <IdleTimer />
     </div>
   );
 }
