@@ -4,12 +4,13 @@ import "./App.css";
 // import Modal from "./components/3. Modal";
 // import Tooltip from "./components/4. Tooltip";
 // import IdleTimer from "./components/6. IdleTimer";
-import ColorPicker from "./components/7. ColorPicker";
+// import ColorPicker from "./components/7. ColorPicker";
+import CreditCards from "./components/8. CreditCards";
 
 function App() {
   return (
     <div className='App'>
-      <ColorPicker />
+      <CreditCards />
     </div>
   );
 }
