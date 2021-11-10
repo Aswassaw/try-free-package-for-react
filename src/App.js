@@ -7,12 +7,13 @@ import "./App.css";
 // import ColorPicker from "./components/7. ColorPicker";
 // import CreditCards from "./components/8. CreditCards";
 // import VideoPlayer from "./components/9. VideoPlayer";
-import Spinners from "./components/10. Spinners";
+// import Spinners from "./components/10. Spinners";
+import Typewriter from "./components/11. Typewriter";
 
 function App() {
   return (
     <div className='App'>
-      <Spinners />
+      <Typewriter />
     </div>
   );
 }
