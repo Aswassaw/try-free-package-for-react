@@ -8,12 +8,13 @@ import "./App.css";
 // import CreditCards from "./components/8. CreditCards";
 // import VideoPlayer from "./components/9. VideoPlayer";
 // import Spinners from "./components/10. Spinners";
-import Typewriter from "./components/11. Typewriter";
+// import Typewriter from "./components/11. Typewriter";
+import Carousel from "./components/12. Carousel";
 
 function App() {
   return (
     <div className='App'>
-      <Typewriter />
+      <Carousel />
     </div>
   );
 }

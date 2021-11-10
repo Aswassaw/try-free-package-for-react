@@ -33,6 +33,7 @@
     "react-waypoint": "^10.1.0",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
+    "slick-carousel": "^1.8.1",
     "sweetalert2": "^10.15.1",
     "typewriter-effect": "^2.18.2",
     "web-vitals": "^0.2.4"
