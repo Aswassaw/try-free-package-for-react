@@ -11,3 +11,5 @@
 - Credit Cards dengan react-credit-cards
 - Video Player dengan react-player
 - Spinners dengan react-spinners
+- Carousel dengan react-slick & slick-carousel
+- Typewriter dengan typewriter-effect
